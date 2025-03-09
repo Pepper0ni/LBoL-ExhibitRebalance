@@ -75,13 +75,8 @@ namespace ExhibitRebalance.Exhibits
             List<Card> list = (from card in base.Battle.DrawZone where card.ConfigCost.Amount == base.Value1 select card).ToList<Card>();
             if (list.Count > 0)
             {
-                yield return new MoveCardAction(list[0], CardZone.Hand);
+                yield return new DrawSelectedCardAction(list[0]);
             }
-			/*foreach (Card card in base.Battle.DrawZone){
-                if (card.ConfigCost.Amount == base.Value1){
-                    yield return new MoveCardAction(card, CardZone.Hand);
-                }
-            }*/
 			yield break;
 		}
     }

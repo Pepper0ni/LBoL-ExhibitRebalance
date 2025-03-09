@@ -1,7 +1,10 @@
 {
-  "name": "SampleCharacterMod",
-  "version_number": "0.0.1",
-  "website_url": "https://gitlab.com/rmrfmaxxc1/lbol_sample_character_mod",
-  "description": "Add sample character mod as a playable character.",
-  "dependencies": [ "BepInEx-BepInExPack-5.4.2100", "TeamNeo-Sideloader-0.9.7601"]
+    "name": "ExhibitRebalance",
+    "version_number": "0.9.0",
+    "website_url": "https://github.com/Pepper0ni/LBoL-ExhibitRebalance",
+    "description": "Rebalances and Rearranges exhibits to make Elite rewards more consistently strong.",
+    "dependencies": [
+        "BepInEx-BepInExPack-5.4.2100",
+        "TeamNeo-Sideloader-0.9.7601"
+    ]
 }

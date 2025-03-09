@@ -1,0 +1,114 @@
+FrozenFrogExhibit:
+  Name: Frozen Frog
+  Description: |-
+    At the start of each turn, except the first turn of combat, gain {Mana}.
+  FlavorText: Achievements for fairykind, Blasphemy against the Moriya shrine.
+
+BewitchedBroomExhibit:
+  Name: Bewitched Broom
+  Description: |-
+    Whenever {PlayerName} receives a Debuff, gain {Mana}.
+  FlavorText: The forest's magic has gathered into this mundane broom, causing it to radiate power.
+
+Taozi:
+  Name: Peach
+  Description: |-
+    When acquired, {PlayerName} gains {Value1} maximum life. At the start of the Player's turn, if life is at it's maximum, gain {Mana}.
+  FlavorText: Many people think it's from Tenshi's hat, but it in fact comes from the Lunar Capital.
+
+HeiseBijiben:
+  Name: Black Notebook
+  Description: |-
+    At the start of combat, all enemies with known names lose {Value1} life multiplied by the current act.
+  FlavorText: It is said that writing one's name in it will kill that person.
+
+HeijiaoChangpian:
+  Name: Vinyl
+  Description: |-
+    Whenever a Status or Misfortune card is drawn, gain {Mana}.
+  FlavorText: In the Outside World, it became a symbol of a luxurious hobby.
+
+JudaShaozi:
+  Name: Huge Spoon
+  Description: |-
+    When acquired, {PlayerName} gains {Value1} maximum life for each Misfortune in the library. Whenever a Misfortune is added to the Library, {PlayerName} gains {Value1} maximum Life.
+  FlavorText: Its owner comes and eats everything.
+
+DiannaoPeijian:
+  Name: Computer Parts
+  Description: |-
+    {PlayerName}'s maximum amount of Spell Card charges is increased by {Value2}. When acquired, gain {Value1} <sprite="Point" name="Power">.
+  FlavorText: WAIT STOP THAT DOESN'T GO IN TEA! ~ Sumireko
+
+TiangouXiangji:
+  Name: Tengu's Camera
+  Description: |-
+    At the start of combat, apply 1 {Value1} Firepower Down to each enemy.
+  FlavorText: It looks highly exquisite.
+
+Pingguo:
+  Name: Apple
+  Description: |-
+    When acquired, {PlayerName} gains {Value1} maximum life. At the start of combat, gain {Value2} Ward.
+  FlavorText: An apple a day keeps the Pure Radiance Away. 
+
+Cookie:
+  Name: Delicious Cookie
+  Description: |-
+    When acquired, {PlayerName} gains {Value1} maximum life. Then heal to maximum life and <sprite="Point" name="Power">.
+  FlavorText: It's a good day. 
+
+ShanliangDengpao:
+  Name: Shiny Bulb
+  Description: |-
+    After {Value1} or more mana is spent to play a card, gain {Mana}.
+  FlavorText: I love not thinking!
+
+Putao:
+  Name: Grapes
+  Description: |-
+    When acquired, {PlayerName} gains {Value1} maximum life. The first time you lose life each combat, gain <sprite="Point" name="Power"> equal to the life lost multiplied by {Value2}.
+  FlavorText: Courtesy of Minoriko Aki, God of Harvest.
+
+SongjingMuyu:
+  Name: Wooden Fish
+  Description: |-
+    When {PlayerName} plays a card that exiles a different card, gain {Mana}.
+  FlavorText: Use this to chant at the enemy, dealing magic damage.
+
+ChaojiMogu:
+  Name: Super Mushroom
+  Description: |-
+    At the start of each turn, if there are {Value1} or more cards in the hand, draw pile and discard pile combined, gain {Mana}.
+  FlavorText: You feel like the world has gotten a little smaller.
+  
+ShoubiaoMazuiqiang:
+  Name: Anesthesia Gun Watch
+  Description: |-
+    At the start of combat, apply {Value1} |Weak| and |Vulnerable| to each enemy.
+  FlavorText: Highly concealable, and undetectable by the enemy when in use.
+
+JingzhiChaju:
+  Name: Exquisite Tea Set
+  Description: |-
+    Entering a Gap recovers {Value1}% of your life. When you |Drink Tea| at a Gap, gain {Value2} <sprite="Point" name="Power">
+  FlavorText: Courtesy of the Scarlet Devil Mansion, showcasing a 'sophisticated living'
+    atmosphere.
+
+XiaorenWan:
+  Name: Inchling's Bowl
+  Description: |-
+    Gain {Value1} maximum life when skipping a card reward. The first time you play a Basic card each turn, draw {Value2} card.
+  FlavorText: "Alias: Ship of Shinmyoumaru Sukuna."
+
+He3:
+  Name: Helium-3
+  Description: |-
+    At the start of your turn, add the topmost card with a total mana cost of exactly {Value1} from your draw pile to your hand.
+  FlavorText: The local specialties of The Moonscape.
+
+HuangyouJiqiren:
+  Name: Butter Robot
+  Description: |-
+    On the {Value2}nd and {Value3}rd turn of combat, add a random rare card to the hand, it has exile and ethereal. After |drinking tea| at a Gap, choose 1 of {Value1} cards to add to the library.
+  FlavorText: A robot questioning the reason behind its creation. "What is my purpose?"

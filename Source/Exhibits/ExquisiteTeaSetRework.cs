@@ -71,7 +71,7 @@ namespace ExhibitRebalance.Exhibits
 				if (args.Station.Type == StationType.Gap)
 				{
                     base.NotifyActivating();
-					base.GameRun.Heal(base.GameRun.Player.MaxHp * (base.Value1 / 100), true, "JingzhiChaju");
+					base.GameRun.Heal((int)((float)base.GameRun.Player.MaxHp * ((float)base.Value1 / 100.0f)), true, "JingzhiChaju");
 				}
 			});
 		}

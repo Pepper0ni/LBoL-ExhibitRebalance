@@ -21,14 +21,14 @@ A new member of the shop mana gain cycle. This rewards cards like purify the lan
 - Peach: Now also gives you C at the start of each turn if your life is at maximum
 - Black Notebook: Now does 25 dmaage multiplied by the current act number, so 25 in act 1, 50 in act 2, 75 in act 3 and 100 in act 4. Is no longer limited to the shop.
 - Vinyl: Now also gives Mana when you draw a Misfortune
-- Huge Spoon: Now gives 13 max life, now gives you max life for each existing misfortune when collected.
+- Huge Spoon: Now gives 11 max life, now gives you max life for each existing misfortune when collected.
 - Lightsaber: Now applies 4 lock-on, is no longer restricted to the shop pool
 - Hyottoko Mask: Now gives 10 block (from 5), is now a common Shop Only exhibit.
 - Apple: Now also gives 1 ward at the start of combat. Is now Common.
 - Delicious Cookie: Now fully charges Power on pickup. 
 - Just-a-Knife: Now adds 5 damage to 1 cost basic atatcks and 10 to 2 cost basic attacks. Is now a shop only exhibit
 Credit to rm -rf Maxx C for the numbers and code
-- Grapes: Added "The first time you take lose life each combat, gain twice that much life as Power"
+- Grapes: Added "The first time you lose life each combat, gain twice that much life as Power"
 - Anesthesia Gun Watch: Now consistently applies both debuffs, Is now Uncommon and no longer limited to shops.
 - Inchling's bowl: Added "The first time you play a basic card each turn, draw a card". Moved to Common.
 Once per turn to avoid any stupid magic of the mallet shoot boundry infinites.

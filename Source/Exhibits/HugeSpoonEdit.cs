@@ -46,7 +46,7 @@ namespace ExhibitRebalance.Exhibits
                 Owner: null,
                 LosableType: ExhibitLosableType.Losable,
                 Rarity: Rarity.Common,
-                Value1: 13,
+                Value1: 11,
                 Value2: null,
                 Value3: null,
                 Mana: null,
